@@ -1,0 +1,65 @@
+Dart Installation on Windows
+What is the first step for installing Dart on a Windows machine?
+
+Correct Answer: B) Download the Dart SDK
+Explanation: The first step is to download the Dart SDK from the official Dart website.
+Which command verifies the Dart installation on macOS?
+
+Correct Answer: D) dart --version
+Explanation: Running dart --version in the terminal will display the installed Dart version, verifying the installation.
+Flutter Installation on Linux
+What is the next step after downloading and extracting the Flutter SDK on Linux?
+
+Correct Answer: B) Update your PATH
+Explanation: After extracting the Flutter SDK, you need to update your system’s PATH environment variable to include the Flutter bin directory.
+What command is used to run a newly created Flutter app?
+
+Correct Answer: C) flutter run
+Explanation: The flutter run command is used to run a Flutter app on an emulator or connected device.
+Python Installation on Windows
+What is the first step to install Python on a Windows system?
+
+Correct Answer: B) Download Python from the official website
+Explanation: The first step is to download the Python installer from the official Python website.
+Which option should you ensure is checked during Python installation on Windows?
+
+Correct Answer: C) Add Python to PATH
+Explanation: Checking the "Add Python to PATH" option allows you to run Python from the command line without specifying the full path.
+How do you verify Python installation on any system?
+
+Correct Answer: A) By running python --version
+Explanation: Running python --version will display the installed Python version, confirming the installation.
+What command is used to install pip on macOS and Linux?
+
+Correct Answer: C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+Explanation: This command downloads the get-pip.py script, which is then used to install pip.
+What is the purpose of a virtual environment in Python?
+
+Correct Answer: C) To separate project dependencies and avoid conflicts
+Explanation: Virtual environments help manage dependencies for different projects without conflicts.
+MySQL Installation on Windows
+What is the first step to install MySQL on Windows?
+
+Correct Answer: B) Download MySQL Installer from the official website
+Explanation: The first step is to download the MySQL Installer, which guides you through the installation process.
+What setup type should you choose for a custom MySQL installation?
+
+Correct Answer: D) Custom
+Explanation: The "Custom" setup type allows you to choose specific components to install.
+Which products should you select during the MySQL installation?
+
+Correct Answer: A) MySQL Server, MySQL Workbench, and MySQL Shell
+Explanation: These products are commonly selected to provide a comprehensive MySQL setup for server management, database development, and command-line interaction.
+What is the purpose of setting a root password during MySQL installation?
+
+Correct Answer: B) To secure your MySQL installation with a super-secret password
+Explanation: Setting a root password secures your MySQL installation by restricting access to the root account.
+How do you begin managing your database after installing MySQL?
+
+Correct Answer: B) Launch MySQL Workbench and connect to your MySQL Server
+Explanation: MySQL Workbench is the graphical tool used to manage MySQL databases, connect to servers, and perform administrative tasks.
+
+
+
+
+
